@@ -13,7 +13,7 @@ public class FortifyScanFix {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("this is Fortify Scan Fix Java Application");
+		System.out.println("this is Fortify Scan Fix Java Application - checking branches");
 
 	}
 
