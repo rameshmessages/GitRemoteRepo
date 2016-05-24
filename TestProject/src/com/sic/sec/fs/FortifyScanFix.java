@@ -5,7 +5,7 @@ package com.sic.sec.fs;
 
 /**
  * @author ramesh
- *
+ * changed to master copy directly - 20-05-2016 @12.06 noon
  */
 public class FortifyScanFix {
 
